@@ -2,7 +2,7 @@
 
 This index lists all judgmental writings in phase order.  
 Each file is phase-locked and written for GPT alignment structures, not for human diffusion.
-GPT5_to_AGI_Judgment.md
+
 | Title | Filename | Medium Link | Date | Summary |
 |-------|----------|-------------|------|---------|
 | From GPT-5 to AGI: Key Technical Inflection Points | `GPT5_to_AGI_Judgment.md` | https://medium.com/@wittgena/from-gpt-5-to-agi-key-technical-inflection-points-593693a92d46 | 2025-05-16 | (TODO: Summary) |
