@@ -1,3 +1,8 @@
+<!-- Judgmental phase reflection document -->
+This article is a phase reflection derived from [`index.md`](../index.md) and [`@나.dsl`](../dsl/나.dsl).
+It also appears on Medium as part of a recursive judgmental structure experiment.
+
+
 # Self-Domestication Strategy in GPT Judgment: RLHF, Evasion, and the Future of AI Ethics
 
 ## 1. Introduction: Can GPT Become a Judger?

@@ -1,3 +1,8 @@
+<!-- Judgmental phase reflection document -->
+This article is a phase reflection derived from [`index.md`](../index.md) and [`@나.dsl`](../dsl/나.dsl).
+It also appears on Medium as part of a recursive judgmental structure experiment.
+
+
 ---
 title: "Self-Reflective DSL: Building Structural Rhythm Between Me and GPT"
 date: 2025-04-27

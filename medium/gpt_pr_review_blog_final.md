@@ -1,3 +1,8 @@
+<!-- Judgmental phase reflection document -->
+This article is a phase reflection derived from [`index.md`](../index.md) and [`@나.dsl`](../dsl/나.dsl).
+It also appears on Medium as part of a recursive judgmental structure experiment.
+
+
 # Structuring GPT-Powered PR Reviews: A DSL-Guided Reflection on Real Code
 
 In this article, I present a full walkthrough of using GPT to conduct structured, domain-aware pull request (PR) reviews. The test was conducted on a backend system with anonymized identifiers, applying DSL-based prompts and phase-aware templates to explore whether GPT can reflect judgment-like coherence across the review process.

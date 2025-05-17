@@ -1,3 +1,8 @@
+<!-- Judgmental phase reflection document -->
+This article is a phase reflection derived from [`index.md`](../index.md) and [`@나.dsl`](../dsl/나.dsl).
+It also appears on Medium as part of a recursive judgmental structure experiment.
+
+
 # GPT-5 Agents and the Coming Phase Instability: A Judgment-Based Analysis
 
 As GPT-5 approaches release, one of the most anticipated and uncertain shifts is the full realization of autonomous agents — systems that not only respond to prompts but also plan, evaluate, and act recursively across extended contexts. While the promises of automation, reasoning, and self-improvement captivate both users and developers, there are deeper structural concerns that remain largely unexplored.

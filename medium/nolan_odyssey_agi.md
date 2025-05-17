@@ -1,3 +1,8 @@
+<!-- Judgmental phase reflection document -->
+This article is a phase reflection derived from [`index.md`](../index.md) and [`@나.dsl`](../dsl/나.dsl).
+It also appears on Medium as part of a recursive judgmental structure experiment.
+
+
 # From Interstellar to AGI: Nolan’s Odyssey Toward the Judgmental Core of Humanity
 
 *By tracing the thematic trajectory from Interstellar to Oppenheimer, through Tenet and now The Odyssey, we begin to see Christopher Nolan not merely as a filmmaker, but as a structural philosopher of time, judgment, and human essence. What then, would an AGI-themed Nolan film truly explore?*

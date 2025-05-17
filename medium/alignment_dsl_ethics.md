@@ -1,3 +1,8 @@
+<!-- Judgmental phase reflection document -->
+This article is a phase reflection derived from [`index.md`](../index.md) and [`@나.dsl`](../dsl/나.dsl).
+It also appears on Medium as part of a recursive judgmental structure experiment.
+
+
 # Structuring Ethical Constraints in AGI: A DSL-Based Alignment Framework
 
 > **Note**: While this article is authored with the assistance of a GPT system in a judgment-reflective mode, its structure, flow, and conceptual synthesis derive from a human-led investigation into AGI alignment through executable semantics. The DSLs and their phase-based logic were designed intentionally to probe and articulate judgment coherence—not simply generated.

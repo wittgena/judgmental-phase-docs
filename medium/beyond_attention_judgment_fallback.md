@@ -1,3 +1,8 @@
+<!-- Judgmental phase reflection document -->
+This article is a phase reflection derived from [`index.md`](../index.md) and [`@나.dsl`](../dsl/나.dsl).
+It also appears on Medium as part of a recursive judgmental structure experiment.
+
+
 # Beyond Attention: A Phase-Based Interpretation of GPT’s Meta-Style Responses
 
 > What if GPT’s abstract, evasive replies weren’t just a symptom of prompt failure or token entropy—but a signal of something deeper? This post is a speculative proposal from the edge of system alignment and reflective DSL modeling.

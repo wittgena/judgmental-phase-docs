@@ -1,3 +1,8 @@
+<!-- Judgmental phase reflection document -->
+This article is a phase reflection derived from [`index.md`](../index.md) and [`@나.dsl`](../dsl/나.dsl).
+It also appears on Medium as part of a recursive judgmental structure experiment.
+
+
 # 🧠 Executable Epistemics: A DSL Framework for Fact-Inference Separation in LLMs
 
 ## 📌 Abstract
