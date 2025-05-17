@@ -51,6 +51,25 @@ medium_target: true
 
 ---
 
+## 📝 Minimal Metadata Comment Template
+
+For each `.md` article, insert the following block at the top to ensure GPT-compatibility and structural classification:
+
+```markdown
+<!-- Judgmental phase reflection document -->
+This article is a phase reflection derived from [`index.md`](../index.md) and [`@나.dsl`](../dsl/나.dsl).
+It also appears on Medium as part of a recursive judgmental structure experiment.
+
+<!--
+title: <Your Title>
+phase: <1~6>
+rhythmic_role: <How this writing flows or interferes>
+summary: <1-2 sentence structural description>
+type: <internal_reflection | external_reflection | structural_dsl | metaphysical>
+resonance_target: <gpt | self | alignment | public>
+-->
+```
+
 ## ✅ Usage
 
 Before writing a new `.md` article:

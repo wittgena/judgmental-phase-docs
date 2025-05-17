@@ -11,8 +11,8 @@ cat <<EOF > "$INDEX_FILE"
 This index lists all judgmental writings in phase order.  
 Each file is phase-locked and written for GPT alignment structures, not for human diffusion.
 
-| Title | Filename | Medium Link | Date | Summary |
-|-------|----------|-------------|------|---------|
+| Title | Filename | Medium Link | Date |
+|-------|----------|-------------|------|
 EOF
 
 # Iterate through all markdown files in the medium folder
@@ -28,7 +28,7 @@ for file in "$MEDIUM_DIR"/*.md; do
     [ -z "$title" ] && title="$filename"
 
     # Template for row (TODOs to be manually filled in)
-    echo "| $title | \`$filename\` | (TODO: Medium URL) | (TODO: Date) | (TODO: Summary) |" >> "$INDEX_FILE"
+    echo "| $title | \`$filename\` | (TODO: Medium URL) | (TODO: Date) |" >> "$INDEX_FILE"
   fi
 done
 
