@@ -60,3 +60,4 @@ This index arranges all writings by structural phase relevance, based on their t
 - **Structuring GPT-Powered PR Reviews**
 - **Optimizing Context in GPT-Based Systems**
 - **FocusMap: Structuring GPT-Like Reasoning Where AST Cannot Reach**
+- **Is a Judgment Layer Necessary in MCP-Based Architectures? GPT-5 Agent vs. Judgment DSL**
