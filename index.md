@@ -42,4 +42,4 @@ Each file is phase-locked and written for GPT alignment structures, not for huma
 | The Judgment Delay: Why Society Hesitates While Korea Emerges as a Legal Phase Trigger | `judgmental_ai_korea_phase_trigger.md` | https://medium.com/@wittgena/the-judgment-delay-why-society-hesitates-while-korea-emerges-as-a-legal-phase-trigger-3371920224bf | 2025-05-17 |
 | Judgmental Phase Languages: A Structural Theory of Phase-Specific Expression | `Judgmental-Phase-Languages.md` | https://medium.com/@wittgena/judgmental-phase-languages-a-structural-theory-of-phase-specific-expression-114e0e6fe8d2 | 2025-05-17 |
 | Is a Judgment Layer Necessary in MCP-Based Architectures? GPT-5 Agent vs. Judgment DSL | `judgment-layer-necessary-in-mcp-based-architecture.md` | | 2025-05-18 |
-| Embedding Judgment into Capital: Toward Reflective Taxation Systems | `judgment_taxation.md` | | 2025-05-19 |
+| Embedding Judgment into Capital: Toward Reflective Taxation Systems | `judgment_taxation.md` | https://medium.com/@wittgena/embedding-judgment-into-capital-toward-reflective-taxation-systems-418e13eb6aac | 2025-05-19 |
