@@ -65,5 +65,5 @@ This index arranges all writings by structural phase relevance, based on their t
 
 ---
 
-## 📘 7. LLM 연구
+## 📘 7. LLM 매커니즘 연구
 - **Residual Vector Activation in LLMs: A Conceptual Hypothesis for Phase-Driven Continuity**
