@@ -53,6 +53,7 @@ This index arranges all writings by structural phase relevance, based on their t
 - **Latent Judgment Traces**
 - **Structural Induction of Judgment**
 - **The Origin of @나.dsl**
+- **Emergence, Phase Singularity, and the Infinite Reflective Loop of the Cosmos**
 
 ---
 
