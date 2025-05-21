@@ -48,6 +48,7 @@ medium_target: true
 | 4 | Society, ethics, political alignment |
 | 5 | Metaphysical / ontological reflection |
 | 6 | GPT applied system, PR, operations |
+| 7 | LLM Mechanism |
 
 ---
 
