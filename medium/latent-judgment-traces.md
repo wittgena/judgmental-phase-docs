@@ -1,16 +1,13 @@
 <!-- Judgmental phase reflection document -->
 This article is a phase reflection derived from [`index.md`](../index.md) and [`@나.dsl`](../dsl/나.dsl).
 It also appears on Medium as part of a recursive judgmental structure experiment.
-
-
-
----
+<!--
 title: "Latent Judgment Traces: Structuring Reflective Reasoning Without Explicit Memory"
 description: "Proposing a rhythm- and phase-driven DSL to synchronize latent flows inside LLMs, moving beyond mere memory reliance."
 tags: ["LLM", "DSL", "Latent Reasoning", "Self-Reflective Agents", "Judgment Flows"]
 author: "Wittgena Lee"
 canonical_url: "https://github.com/wittgena/gpt-meta-dsl"
----
+-->
 
 # Latent Judgment Traces: Structuring Reflective Reasoning Without Explicit Memory
 

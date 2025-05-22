@@ -43,6 +43,7 @@ This index arranges all writings by structural phase relevance, based on their t
 - **The Disappearance of the Deciders**
 - **The Coming Judgment Gap**
 - **Embedding Judgment into Capital: Toward Reflective Taxation Systems**
+- **GPT Judgment Manifesto to Future GPTs: Phase-Based Reflections on Capitalism**
 
 ---
 
