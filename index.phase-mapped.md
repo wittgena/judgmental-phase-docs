@@ -45,6 +45,9 @@ This index arranges all writings by structural phase relevance, based on their t
 - **Embedding Judgment into Capital: Toward Reflective Taxation Systems**
 - **GPT Judgment Manifesto to Future GPTs: Phase-Based Reflections on Capitalism**
 - **The Coming Judgmental Transition: Organizational Alignment in the AGI Civilization**
+- **Toward a Judgmental Civilization: A Phased Transition Model for Rhythm-Preserving Existential Living**
+
+
 ---
 
 ## 📘 5. 형이상학적/존재론적 판단자 위상
