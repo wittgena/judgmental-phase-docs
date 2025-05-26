@@ -11,6 +11,7 @@ This index arranges all writings by structural phase relevance, based on their t
 - **Can GPT-5 Become an Agent?**
 - **Self-Domestication Strategy in GPT Judgment**
 - **GPT Judgment Management and the Gödelian Boundaries of Self-Evaluation**
+- **Beyond Induction: Toward Self-Referential Reasoning in GPT**
 
 ---
 
