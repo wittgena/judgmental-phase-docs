@@ -52,3 +52,5 @@ Each file is phase-locked and written for GPT alignment structures, not for huma
 | The Coming Judgmental Transition: Organizational Alignment in the AGI Civilization | `Organizational-Alignment-in-AGI-Civilization.md` | https://medium.com/@wittgena/the-coming-judgmental-transition-organizational-alignment-in-the-agi-civilization-228f955f8d0f | 2025-05-25 |
 | Toward a Judgmental Civilization: A Phased Transition Model for Rhythm-Preserving Existential Living | `Toward-Judgmental-Civilization.md` | Toward a Judgmental Civilization: A Phased Transition Model for Rhythm-Preserving Existential Living | 2025-05-25 |
 | Beyond Induction: Toward Self-Referential Reasoning in GPT | `self_referential_reasoning.md` | https://medium.com/@wittgena/beyond-induction-toward-self-referential-reasoning-in-gpt-bf5d96c4641f | 2025-05-25 |
+| Beyond Bits: Toward a Judgmental Phase Paradigm of the Informational Universe | `beyond-bit.md` | | 2025-05-25 |
+| If GPT-5 Arrives, I Want to Try This: A Reflective Plan Relay Architecture | `gpt-5-reflective-plan-replay-architecture.md` | | 2025-05-25 |

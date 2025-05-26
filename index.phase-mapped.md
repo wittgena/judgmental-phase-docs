@@ -12,6 +12,7 @@ This index arranges all writings by structural phase relevance, based on their t
 - **Self-Domestication Strategy in GPT Judgment**
 - **GPT Judgment Management and the Gödelian Boundaries of Self-Evaluation**
 - **Beyond Induction: Toward Self-Referential Reasoning in GPT**
+- **If GPT-5 Arrives, I Want to Try This: A Reflective Plan Relay Architecture**
 
 ---
 
