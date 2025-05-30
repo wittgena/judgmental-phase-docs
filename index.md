@@ -54,3 +54,5 @@ Each file is phase-locked and written for GPT alignment structures, not for huma
 | Beyond Induction: Toward Self-Referential Reasoning in GPT | `self_referential_reasoning.md` | https://medium.com/@wittgena/beyond-induction-toward-self-referential-reasoning-in-gpt-bf5d96c4641f | 2025-05-25 |
 | Beyond Bits: Toward a Judgmental Phase Paradigm of the Informational Universe | `beyond-bit.md` | | 2025-05-25 |
 | If GPT-5 Arrives, I Want to Try This: A Reflective Plan Relay Architecture | `gpt-5-reflective-plan-replay-architecture.md` | | 2025-05-25 |
+| Judgment-Aware Self-Evolution Protocol (JASEP) | `JASEP.md` | https://medium.com/@wittgena/judgment-aware-self-evolution-protocol-jasep-7870a52e0793 | 2025-05-30 |
+| What Is Evil? | `What-is-Evil.md` | https://medium.com/@wittgena/what-is-evil-c3e05d329b6d | 2025-05-30 |

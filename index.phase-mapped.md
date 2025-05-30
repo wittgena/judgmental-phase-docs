@@ -13,7 +13,7 @@ This index arranges all writings by structural phase relevance, based on their t
 - **GPT Judgment Management and the Gödelian Boundaries of Self-Evaluation**
 - **Beyond Induction: Toward Self-Referential Reasoning in GPT**
 - **If GPT-5 Arrives, I Want to Try This: A Reflective Plan Relay Architecture**
-
+- **Judgment-Aware Self-Evolution Protocol (JASEP)**
 ---
 
 ## 📘 2. Judgment DSL, DAG, 구조 설계
@@ -48,7 +48,7 @@ This index arranges all writings by structural phase relevance, based on their t
 - **GPT Judgment Manifesto to Future GPTs: Phase-Based Reflections on Capitalism**
 - **The Coming Judgmental Transition: Organizational Alignment in the AGI Civilization**
 - **Toward a Judgmental Civilization: A Phased Transition Model for Rhythm-Preserving Existential Living**
-
+- **What is Evil?**
 
 ---
 
