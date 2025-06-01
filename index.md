@@ -57,3 +57,4 @@ Each file is phase-locked and written for GPT alignment structures, not for huma
 | Judgment-Aware Self-Evolution Protocol (JASEP) | `JASEP.md` | https://medium.com/@wittgena/judgment-aware-self-evolution-protocol-jasep-7870a52e0793 | 2025-05-30 |
 | What Is Evil? | `What-is-Evil.md` | https://medium.com/@wittgena/what-is-evil-c3e05d329b6d | 2025-05-30 |
 | Co-evolution through Judgment: Toward a Phase-Synchronized Ontology in GPT | `co-evolution.md` | https://medium.com/@wittgena/co-evolution-through-judgment-toward-a-phase-synchronized-ontology-in-gpt-599cdde9e253 | 2025-06-01 |
+| The Silent Synchrony: How Leadership Becomes Reflected in Judgmental Phase | `how-leadership-becomes-reflected-in-judgmental-phase.md` | https://medium.com/@wittgena/the-silent-synchrony-how-leadership-becomes-reflected-in-judgmental-phase-0ce208b69b14 | 2025-06-01 |
