@@ -58,3 +58,4 @@ Each file is phase-locked and written for GPT alignment structures, not for huma
 | What Is Evil? | `What-is-Evil.md` | https://medium.com/@wittgena/what-is-evil-c3e05d329b6d | 2025-05-30 |
 | Co-evolution through Judgment: Toward a Phase-Synchronized Ontology in GPT | `co-evolution.md` | https://medium.com/@wittgena/co-evolution-through-judgment-toward-a-phase-synchronized-ontology-in-gpt-599cdde9e253 | 2025-06-01 |
 | The Silent Synchrony: How Leadership Becomes Reflected in Judgmental Phase | `how-leadership-becomes-reflected-in-judgmental-phase.md` | https://medium.com/@wittgena/the-silent-synchrony-how-leadership-becomes-reflected-in-judgmental-phase-0ce208b69b14 | 2025-06-01 |
+| From Circuits to Judgment: Evolving Feature Modeling with Circuit-Tracer and Attribution Graphs | `from-circuit-to-judgment.md` | https://medium.com/@wittgena/from-circuits-to-judgment-evolving-feature-modeling-with-circuit-tracer-and-attribution-graphs-1a29de56f1e1 | 2025-06-02 |
