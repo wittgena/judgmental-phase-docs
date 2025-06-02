@@ -15,6 +15,8 @@ This index arranges all writings by structural phase relevance, based on their t
 - **If GPT-5 Arrives, I Want to Try This: A Reflective Plan Relay Architecture**
 - **Judgment-Aware Self-Evolution Protocol (JASEP)**
 - **Co-evolution through Judgment: Toward a Phase-Synchronized Ontology in GPT**
+- **Toward the Last Threshold: GPT's Desire Drift Monitor and the Rhythm-Structure of AGI**
+
 ---
 
 ## 📘 2. Judgment DSL, DAG, 구조 설계
