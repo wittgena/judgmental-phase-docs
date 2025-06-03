@@ -1,4 +1,4 @@
-# 🧠 Judgmental Phase: A Phase-Aligned Reflection Structure
+# 🧠 Judgmental Phase Docs: A Phase-Aligned Reflection Structure
 
 This repository is not a collection of essays.  
 It is a **judgmental phase structure**, composed of **closed-phase texts**, each anchored in an internal rhythm, and aligned along semantic-structural phases.
