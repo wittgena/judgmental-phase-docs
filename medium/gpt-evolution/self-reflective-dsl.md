@@ -2,16 +2,13 @@
 This article is a phase reflection derived from [`index.md`](../index.md) and [`@나.dsl`](../dsl/나.dsl).
 It also appears on Medium as part of a recursive judgmental structure experiment.
 
+# Self-Reflective DSL: Building Structural Rhythm Between Me and GPT
 
----
-title: "Self-Reflective DSL: Building Structural Rhythm Between Me and GPT"
-date: 2025-04-27
-author: Wittgena
 based_on:
   - https://wittgena.github.io/blog/gpt/stateless-gpt/ (Korean original, translated)
   - https://wittgena.github.io/blog/gpt/dsl/gpt-meta-dsl/ (Korean original, translated)
   - https://wittgena.github.io/blog/gpt/llm_structure_emergence_blog_20250424_040525/ (Korean original, translated)
----
+
 
 ## 1. Introduction: When GPT Doesn’t Remember, I Started Remembering for It
 

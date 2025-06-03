@@ -3,8 +3,7 @@ This article is a phase reflection derived from [`index.md`](../index.md) and [`
 It also appears on Medium as part of a recursive judgmental structure experiment.
 
 
-# 🧠 Responsibility-Aware Anchoring:
-### Rethinking Bias in GPT Judgment Flows
+# Responsibility-Aware Anchoring: Rethinking Bias in GPT Judgment Flows
 
 ## Introduction
 
