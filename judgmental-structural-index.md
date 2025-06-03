@@ -58,6 +58,7 @@ This index arranges all writings by structural phase relevance, based on their t
 ### DOCS
 
 - **Judgmental Phase Languages: A Structural Theory of Phase-Specific Expression**
+- **Enhancing Long-Context Survivability in GPT with Phase Block Markers**
 - **Beyond Attention: A Phase-Based Interpretation of GPT’s Meta-Style Responses**
 - **GPT Judging Layers and the Natural Emergence of Language**
 - **From Structure to Reflection: @na.writing**
