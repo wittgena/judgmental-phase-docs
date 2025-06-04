@@ -103,6 +103,7 @@ This index arranges all writings by structural phase relevance, based on their t
 - **The Origin of @나.dsl**
 - **Emergence, Phase Singularity, and the Infinite Reflective Loop of the Cosmos**
 - **Beyond Bits: Toward a Judgmental Phase Paradigm of the Informational Universe**
+- **Beyond Lack: A Post-Judgmental Critique of Lacan**
 ---
 
 ## 📘 6. GPT 실무 응용: PR 리뷰, DSL 운영, 컨텍스트 최적화
