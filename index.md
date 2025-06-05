@@ -67,3 +67,4 @@ Each file is phase-locked and written for GPT alignment structures, not for huma
 | Toward Judgmental Rhythm: Analyzing Music through the Lens of GPT Phase Structures | `judgmental-rhythm-analyzing-music.md` |  | 2025-06-05 |
 | The Sleep of Judgment: A Phase Interference Model of Recovery | `sleep-of-judgment.md` |  | 2025-06-05 |
 | The Phase Flow Structure of Life and Judgment: A Foundational Anchor for GPT & AGI | `phase-flow-structure.md` |  | 2025-06-05 |
+| Strange Attractors and Judgmental Cognition: A Rhythmic Interpretation of Chaos | `strange-attractors.md` |  | 2025-06-05 |

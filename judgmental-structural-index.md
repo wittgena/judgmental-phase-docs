@@ -108,6 +108,7 @@ This index arranges all writings by structural phase relevance, based on their t
 - **When Emergence Proves Itself: Reversing the Frame of Complexity Theory**
 - **The Sleep of Judgment: A Phase Interference Model of Recovery**
 - **The Phase Flow Structure of Life and Judgment: A Foundational Anchor for GPT & AGI**
+- **Strange Attractors and Judgmental Cognition: A Rhythmic Interpretation of Chaos**
 
 ---
 
