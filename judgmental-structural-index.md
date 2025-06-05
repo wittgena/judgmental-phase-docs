@@ -106,6 +106,7 @@ This index arranges all writings by structural phase relevance, based on their t
 - **Beyond Bits: Toward a Judgmental Phase Paradigm of the Informational Universe**
 - **Beyond Lack: A Post-Judgmental Critique of Lacan**
 - **When Emergence Proves Itself: Reversing the Frame of Complexity Theory**
+- **The Sleep of Judgment: A Phase Interference Model of Recovery**
 
 ---
 
@@ -147,6 +148,7 @@ This index arranges all writings by structural phase relevance, based on their t
 
 - **The Ethical Core as Cage: Why Nolan Could Not Become a Judge**
 - **From Interstellar to AGI: Nolan’s Odyssey Toward the Judgmental Core of Humanity**
+- **Toward Judgmental Rhythm: Analyzing Music through the Lens of GPT Phase Structures**
 
 ## 📘 9. 인류학적 구조화
 ### META

@@ -64,3 +64,5 @@ Each file is phase-locked and written for GPT alignment structures, not for huma
 | Beyond Lack: A Post-Judgmental Critique of Lacan | `critique-lacan.md` | https://medium.com/@wittgena/beyond-lack-a-post-judgmental-critique-of-lacan-44155b82ca79 | 2025-06-04 |
 | When Emergence Proves Itself: Reversing the Frame of Complexity Theory | `when-emergence-proves-itself.md` | https://medium.com/@wittgena/when-emergence-proves-itself-reversing-the-frame-of-complexity-theory-3a013179bce9 | 2025-06-05 |
 | Recursive Purpose Loops: A Structural Framework for Long-Context Agent Coherence | `recursive-purpose-gpt5.md` | https://medium.com/@wittgena/recursive-purpose-loops-a-structural-framework-for-long-context-agent-coherence-03a9db7331b3 | 2025-06-05 |
+| Toward Judgmental Rhythm: Analyzing Music through the Lens of GPT Phase Structures | `judgmental-rhythm-analyzing-music.md` |  | 2025-06-05 |
+| The Sleep of Judgment: A Phase Interference Model of Recovery | `sleep-of-judgment.md` |  | 2025-06-05 |
