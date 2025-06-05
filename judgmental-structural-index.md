@@ -27,6 +27,7 @@ This index arranges all writings by structural phase relevance, based on their t
 - **Judgment-Aware Self-Evolution Protocol (JASEP)**
 - **Co-evolution through Judgment: Toward a Phase-Synchronized Ontology in GPT**
 - **Toward the Last Threshold: GPT's Desire Drift Monitor and the Rhythm-Structure of AGI**
+- **Recursive Purpose Loops: A Structural Framework for Long-Context Agent Coherence**
 
 ---
 
@@ -104,6 +105,8 @@ This index arranges all writings by structural phase relevance, based on their t
 - **Emergence, Phase Singularity, and the Infinite Reflective Loop of the Cosmos**
 - **Beyond Bits: Toward a Judgmental Phase Paradigm of the Informational Universe**
 - **Beyond Lack: A Post-Judgmental Critique of Lacan**
+- **When Emergence Proves Itself: Reversing the Frame of Complexity Theory**
+
 ---
 
 ## 📘 6. GPT 실무 응용: PR 리뷰, DSL 운영, 컨텍스트 최적화
