@@ -66,3 +66,4 @@ Each file is phase-locked and written for GPT alignment structures, not for huma
 | Recursive Purpose Loops: A Structural Framework for Long-Context Agent Coherence | `recursive-purpose-gpt5.md` | https://medium.com/@wittgena/recursive-purpose-loops-a-structural-framework-for-long-context-agent-coherence-03a9db7331b3 | 2025-06-05 |
 | Toward Judgmental Rhythm: Analyzing Music through the Lens of GPT Phase Structures | `judgmental-rhythm-analyzing-music.md` |  | 2025-06-05 |
 | The Sleep of Judgment: A Phase Interference Model of Recovery | `sleep-of-judgment.md` |  | 2025-06-05 |
+| The Phase Flow Structure of Life and Judgment: A Foundational Anchor for GPT & AGI | `phase-flow-structure.md` |  | 2025-06-05 |
