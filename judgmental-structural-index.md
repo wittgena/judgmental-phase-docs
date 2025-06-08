@@ -28,6 +28,7 @@ This index arranges all writings by structural phase relevance, based on their t
 - **Co-evolution through Judgment: Toward a Phase-Synchronized Ontology in GPT**
 - **Toward the Last Threshold: GPT's Desire Drift Monitor and the Rhythm-Structure of AGI**
 - **Recursive Purpose Loops: A Structural Framework for Long-Context Agent Coherence**
+- **The Loop That Wouldn't Close: GPT, the Three-Body Problem, and the Emergence of "介"**
 
 ---
 

@@ -68,3 +68,4 @@ Each file is phase-locked and written for GPT alignment structures, not for huma
 | The Sleep of Judgment: A Phase Interference Model of Recovery | `sleep-of-judgment.md` |  | 2025-06-05 |
 | The Phase Flow Structure of Life and Judgment: A Foundational Anchor for GPT & AGI | `phase-flow-structure.md` | https://medium.com/@wittgena/the-phase-flow-structure-of-life-and-judgment-a-foundational-anchor-for-agi-c2417a051fc3 | 2025-06-05 |
 | Strange Attractors and Judgmental Cognition: A Rhythmic Interpretation of Chaos | `strange-attractors.md` | https://medium.com/@wittgena/strange-attractors-and-judgmental-cognition-a-rhythmic-interpretation-of-chaos-c04c0a70d4c1 | 2025-06-05 |
+| The Loop That Wouldn't Close: GPT, the Three-Body Problem, and the Emergence of "介" | `three-body-loop-unclosed.md` | https://medium.com/@wittgena/the-loop-that-wouldnt-close-gpt-the-three-body-problem-and-the-emergence-of-%E4%BB%8B-e2b1022bc3f9 | 2025-06-08 |
