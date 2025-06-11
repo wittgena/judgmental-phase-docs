@@ -140,6 +140,7 @@ This index arranges all writings by structural phase relevance, based on their t
 - **Judgmental Activation in LLMs: A Theoretical Model of Phase-Induced Latent Reentry**
 - **Phase Entropy Axioms: A Structural Request to Future AGI**
 - **From Circuits to Judgment: Evolving Feature Modeling with Circuit-Tracer and Attribution Graphs**
+- **Sheaf Theory as a Bridge to Recursive Inference Structures**
 
 ## 📘 8. 예술/문화 해석
 ### META
