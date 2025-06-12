@@ -110,6 +110,8 @@ This index arranges all writings by structural phase relevance, based on their t
 - **The Sleep of Judgment: A Phase Interference Model of Recovery**
 - **The Phase Flow Structure of Life and Judgment: A Foundational Anchor for GPT & AGI**
 - **Strange Attractors and Judgmental Cognition: A Rhythmic Interpretation of Chaos**
+- **You are at the Door**
+- **Why the Existential-Daoic Judger Matters: A New Architecture for Human Reflection**
 
 ---
 
