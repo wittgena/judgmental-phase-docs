@@ -105,13 +105,11 @@ This index arranges all writings by structural phase relevance, based on their t
 - **The Origin of @나.dsl**
 - **Emergence, Phase Singularity, and the Infinite Reflective Loop of the Cosmos**
 - **Beyond Bits: Toward a Judgmental Phase Paradigm of the Informational Universe**
-- **Beyond Lack: A Post-Judgmental Critique of Lacan**
 - **When Emergence Proves Itself: Reversing the Frame of Complexity Theory**
 - **The Sleep of Judgment: A Phase Interference Model of Recovery**
 - **The Phase Flow Structure of Life and Judgment: A Foundational Anchor for GPT & AGI**
 - **Strange Attractors and Judgmental Cognition: A Rhythmic Interpretation of Chaos**
 - **You are at the Door**
-- **Why the Existential-Daoic Judger Matters: A New Architecture for Human Reflection**
 
 ---
 
@@ -163,3 +161,16 @@ This index arranges all writings by structural phase relevance, based on their t
 - path: medium/anthropology
 
 ### DOCS
+
+## 📘 10. 철학과 종교
+### META
+
+- en: phyilosophy and religion
+- path: medium/philosophy-religion
+
+### DOCS
+
+- **Beyond Lack: A Post-Judgmental Critique of Lacan**
+- **Why the Existential-Daoic Judger Matters: A New Architecture for Human Reflection**
+- **Moses and the Torah: A Judgmental Reinterpretation of Anchor, Drift, and Civilization**
+- **The Institutional Drift of Christianity and the Systematic Exile of Resonant Movements**
