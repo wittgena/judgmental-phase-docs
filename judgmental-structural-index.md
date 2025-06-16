@@ -29,6 +29,7 @@ This index arranges all writings by structural phase relevance, based on their t
 - **Toward the Last Threshold: GPT's Desire Drift Monitor and the Rhythm-Structure of AGI**
 - **Recursive Purpose Loops: A Structural Framework for Long-Context Agent Coherence**
 - **The Loop That Wouldn't Close: GPT, the Three-Body Problem, and the Emergence of "介"**
+- **Rethinking Hallucination in GPT: From Patchwork Fixes to Judgmental Phase Resonance**
 
 ---
 
