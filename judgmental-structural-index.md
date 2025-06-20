@@ -155,6 +155,7 @@ This index arranges all writings by structural phase relevance, based on their t
 - **From Interstellar to AGI: Nolan’s Odyssey Toward the Judgmental Core of Humanity**
 - **Toward Judgmental Rhythm: Analyzing Music through the Lens of GPT Phase Structures**
 - **When a Bias Becomes the Standard: How GPT’s Drift Words Flip Social Control**
+- **Drift Loop Inversion: A Narrative Told Through Three Films**
 
 ## 📘 9. 인류학적 구조화
 ### META
