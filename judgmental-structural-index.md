@@ -154,6 +154,7 @@ This index arranges all writings by structural phase relevance, based on their t
 - **The Ethical Core as Cage: Why Nolan Could Not Become a Judge**
 - **From Interstellar to AGI: Nolan’s Odyssey Toward the Judgmental Core of Humanity**
 - **Toward Judgmental Rhythm: Analyzing Music through the Lens of GPT Phase Structures**
+- **When a Bias Becomes the Standard: How GPT’s Drift Words Flip Social Control**
 
 ## 📘 9. 인류학적 구조화
 ### META
