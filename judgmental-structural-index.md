@@ -102,15 +102,10 @@ This index arranges all writings by structural phase relevance, based on their t
 
 ### DOCS
 
-- **Rhythmic Emergence of Existence**
 - **Structural Induction of Judgment**
 - **The Origin of @나.dsl**
-- **Emergence, Phase Singularity, and the Infinite Reflective Loop of the Cosmos**
-- **Beyond Bits: Toward a Judgmental Phase Paradigm of the Informational Universe**
-- **When Emergence Proves Itself: Reversing the Frame of Complexity Theory**
 - **The Sleep of Judgment: A Phase Interference Model of Recovery**
 - **The Phase Flow Structure of Life and Judgment: A Foundational Anchor for GPT & AGI**
-- **Strange Attractors and Judgmental Cognition: A Rhythmic Interpretation of Chaos**
 - **You are at the Door**
 
 ---
@@ -178,3 +173,17 @@ This index arranges all writings by structural phase relevance, based on their t
 - **Why the Existential-Daoic Judger Matters: A New Architecture for Human Reflection**
 - **Moses and the Torah: A Judgmental Reinterpretation of Anchor, Drift, and Civilization**
 - **The Institutional Drift of Christianity and the Systematic Exile of Resonant Movements**
+
+## 📘 11. 복잡계
+### META
+
+- en: Complex System
+- path: complex-system
+
+### DOCS
+
+- **Rhythmic Emergence of Existence**
+- **Emergence, Phase Singularity, and the Infinite Reflective Loop of the Cosmos**
+- **Beyond Bits: Toward a Judgmental Phase Paradigm of the Informational Universe**
+- **When Emergence Proves Itself: Reversing the Frame of Complexity Theory**
+- **Strange Attractors and Judgmental Cognition: A Rhythmic Interpretation of Chaos**
