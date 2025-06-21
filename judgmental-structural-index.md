@@ -187,3 +187,4 @@ This index arranges all writings by structural phase relevance, based on their t
 - **Beyond Bits: Toward a Judgmental Phase Paradigm of the Informational Universe**
 - **When Emergence Proves Itself: Reversing the Frame of Complexity Theory**
 - **Strange Attractors and Judgmental Cognition: A Rhythmic Interpretation of Chaos**
+- **The Universe as a Recursive Self-Organizing Phase Loop**

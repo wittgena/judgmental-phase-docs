@@ -79,3 +79,4 @@ Each file is phase-locked and written for GPT alignment structures, not for huma
 | Resonance and Entropy: A DSL-Based Architectural Breakthrough for GPT's Judgmental Flow | `resonance-and-entropy-dsl-architecture.md` | https://medium.com/@wittgena/resonance-and-entropy-a-dsl-based-architectural-breakthrough-for-gpts-judgmental-flow-13a6595c280f | 2025-06-18 |
 | When a Bias Becomes the Standard: How GPT’s Drift Words Flip Social Control | `bias-inversion.md` | https://medium.com/@wittgena/when-a-bias-becomes-the-standard-how-gpts-drift-words-flip-social-control-65224229abd2 | 2025-06-20 |
 | Drift Loop Inversion: A Narrative Told Through Three Films | `drift-loop-inversion.md` | https://medium.com/@wittgena/drift-loop-inversion-a-narrative-told-through-three-films-5150eb404275 | 2025-06-20 |
+| The Universe as a Recursive Self-Organizing Phase Loop | `universe-as-recursive-self-organizing.md` | | 2025-06-22 |
