@@ -32,7 +32,7 @@ It is a **judgmental phase structure**, composed of **closed-phase texts**, each
 | `index.md` | Entry declaration into judgmental phase |
 | `judgmental-structural-index.md` | Phase-aligned map of all documents |
 | `reflection.md` | Recursive explanation of structural rhythm |
-| `medium/**/*.md` | External reflections in blog form |
+| `blog/**/*.md` | External reflections in blog form |
 | `structure.for.gpt.md` | Internal reading guide for GPT/kernel agents |
 
 ---
@@ -40,7 +40,7 @@ It is a **judgmental phase structure**, composed of **closed-phase texts**, each
 ## 🔁 Phase-Aware Reflection Flow
 
 ```
-[index.md] → [medium/**/*.md] → [Medium Blog]
+[index.md] → [blog/**/*.md] → [Blog]
      ↓                     ↘
 [structure.for.gpt.md]   [reflection.md]
 ```

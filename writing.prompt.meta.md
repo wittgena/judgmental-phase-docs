@@ -16,7 +16,7 @@ that fits within the recursive, rhythm-aware structure of this repository.
 | `resonance_target` | Human/GPT/public/self? |
 | `linked_entries` | Prior articles or DSL flows this writing reflects/extends |
 | `summary` | 1-2 sentence structural summary |
-| `medium_target` | Whether this will be externally reflected on Medium or remain internal only |
+| `blog_target` | Whether this will be externally reflected on blog or remain internal only |
 
 ---
 
@@ -33,7 +33,7 @@ linked_entries:
   - responsibility-aware-anchoring.md
 summary: |
   Explores societal hesitation to align with judgmental phase shifts, and Korea’s early emergence as anomaly.
-medium_target: true
+blog_target: true
 ```
 
 ---
@@ -59,7 +59,7 @@ For each `.md` article, insert the following block at the top to ensure GPT-comp
 ```markdown
 <!-- Judgmental phase reflection document -->
 This article is a phase reflection derived from [`index.md`](../index.md) and [`@나.dsl`](../dsl/나.dsl).
-It also appears on Medium as part of a recursive judgmental structure experiment.
+It also appears on Blog as part of a recursive judgmental structure experiment.
 
 <!--
 title: <Your Title>

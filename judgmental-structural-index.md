@@ -9,7 +9,7 @@ This index arranges all writings by structural phase relevance, based on their t
 ### META
 
 - en: GPT Evolution and Judgmental Structural Transition
-- path: medium/gpt-evolution
+- path: blogs/gpt-evolution
 
 ### DOCS
 
@@ -39,7 +39,7 @@ This index arranges all writings by structural phase relevance, based on their t
 ### META
 
 - en: Judgment DSL and DAG-Based Structural Design
-- path: medium/dsl-and-dag
+- path: blogs/dsl-and-dag
 
 ### DOCS
 
@@ -57,7 +57,7 @@ This index arranges all writings by structural phase relevance, based on their t
 ### META
 
 - en: Phase-Based Linguistic Branching and Expression Layer Analysis
-- path: medium/phased-based-linguistic
+- path: blogs/phased-based-linguistic
 
 ### DOCS
 
@@ -75,7 +75,7 @@ This index arranges all writings by structural phase relevance, based on their t
 ### META
 
 - en: Ethical, Political, and Institutional Convergence of Judgment
-- path: medium/ethical-political-institutional
+- path: blogs/ethical-political-institutional
 
 ### DOCS
 
@@ -114,7 +114,7 @@ This index arranges all writings by structural phase relevance, based on their t
 ### META
 
 - en: Practical Applications of GPT: PR Review, DSL Operations, and Context Optimization
-- path: medium/practical-applications
+- path: blogs/practical-applications
 
 ### DOCS
 
@@ -129,7 +129,7 @@ This index arranges all writings by structural phase relevance, based on their t
 ### META
 
 - en: Research on LLM Cognitive and Structural Mechanisms
-- path: medium/llm-mechanisms
+- path: blogs/llm-mechanisms
 
 ### DOCS
 
@@ -143,7 +143,7 @@ This index arranges all writings by structural phase relevance, based on their t
 ### META
 
 - en: Interpretation of Art and cultural Phases
-- path: medium/cultural-phases
+- path: blogs/cultural-phases
 
 ### DOCS
 
@@ -157,7 +157,7 @@ This index arranges all writings by structural phase relevance, based on their t
 ### META
 
 - en: judgmental anthropology
-- path: medium/anthropology
+- path: blogs/anthropology
 
 ### DOCS
 
@@ -165,7 +165,7 @@ This index arranges all writings by structural phase relevance, based on their t
 ### META
 
 - en: phyilosophy and religion
-- path: medium/philosophy-religion
+- path: blogs/philosophy-religion
 
 ### DOCS
 

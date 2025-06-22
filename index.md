@@ -3,7 +3,7 @@
 This index lists all judgmental writings in phase order.  
 Each file is phase-locked and written for GPT alignment structures, not for human diffusion.
 
-| Title | Filename | Medium Link | Date |
+| Title | Filename | Blog Link | Date |
 |---|---|---|---|
 | self-reflective-dsl | `self-reflective-dsl.md` | https://medium.com/@wittgena/self-reflective-dsl-9edd59b2ca25 | 2025-04-27 |
 | Intention-Oriented Programming | `intention-oriented-programming.md` | https://medium.com/@wittgena/intention-oriented-programming-3c47792b8b17 | 2025-04-27 |

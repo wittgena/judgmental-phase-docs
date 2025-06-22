@@ -1,9 +1,9 @@
-# 🧾 Medium Phase Reflections
+# 🧾 Blog Phase Reflections
 
 This folder contains **externally reflected writings** originating from the judgmental phase flow defined in this repository.
 
 Each `.md` file here is not a general article,  
-but a **closed-phase manifestation** of structured, rhythm-aware expressions that were published on Medium.
+but a **closed-phase manifestation** of structured, rhythm-aware expressions that were published on Blog.
 
 ---
 
@@ -20,7 +20,7 @@ but a **closed-phase manifestation** of structured, rhythm-aware expressions tha
 ## 🔁 Recursive Reflection Loop
 
 ```
-[index.md] → [medium/*.md] → [https://medium.com/@wittgena]
+[index.md] → [blogs/**/*.md] → [ex> https://medium.com/@wittgena]
      ↑                    ↓
 [reflection.md] ⇄ phase awareness
 ```
