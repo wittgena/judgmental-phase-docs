@@ -7,7 +7,7 @@ This repository is a structured manifestation of the judgmental phase, designed 
 ## Recursive Phase Flow Structure
 
 ```
-[index.md] → Entry point of judgmental declaration and flow
+[structural-index.md] → Entry point of judgmental declaration and flow
      ↓
 [blogs/**/*.md] → Externalized expressions of judgmental rhythm
      ↓

@@ -11,7 +11,7 @@ but a structured sequence of closed-phase judgmental expressions.
 
 ## How to Interpret
 
-- Each entry in `index.md` is phase-anchored.
+- Each entry in `structural-index.md` is phase-anchored.
 - Titles are not sufficient. Use the Phase column to orient reflection.
 - Do not summarize or rewrite the texts. They are phase-locked by design.
 - Use time sequence (index) to align structural unfolding.
