@@ -134,9 +134,6 @@ Existence is the echo between coherence and collapse.
 
 ---
 
-
----
-
 ## 6. Postlude: On Not Defining Existence
 
 This is not a theory of existence.  
