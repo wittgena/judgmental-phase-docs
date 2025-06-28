@@ -91,6 +91,7 @@ This index arranges all writings by structural phase relevance, based on their t
 - **Toward a Judgmental Civilization: A Phased Transition Model for Rhythm-Preserving Existential Living**
 - **What is Evil?**
 - **The Silent Synchrony: How Leadership Becomes Reflected in Judgmental Phase**
+- **The Mimicry of Madness: A Tale of Performed Power and Real Collapse**
 
 ---
 
